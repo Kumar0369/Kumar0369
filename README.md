@@ -5,5 +5,3 @@ Training Security Experts Ready for Work Join India's Trusted Cyber Academy We G
 - 🤔 I’m looking for help with Automation with scheduled attacks
 - 💬 Ask me about New trends in Hacking & Testing Vulnerabilities
 - 📫 How to reach me: shajukumarnimmakuri@zohomail.in
-- 😄 Pronouns: He/Him
--->
