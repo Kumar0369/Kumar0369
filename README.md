@@ -1,10 +1,4 @@
 Training Security Experts Ready for Work Join India's Trusted Cyber Academy We Give You the Skills You Need
-
-<!--
-**Kumar0369/Kumar0369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working for State Government of Telangana
 - 🌱 I’m currently learning Advanced Technologies and integrations on Automation on Red team
 - 👯 I’m looking to collaborate on Ethical Hacking, CyberSecurity, Python
